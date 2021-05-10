@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783365051978",
+    "project_id": "frindershare",
+    "storage_bucket": "frindershare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783365051978:android:81acd839ee6ad6c50df8b3",
+        "android_client_info": {
+          "package_name": "com.britishbroadcast.frindershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783365051978-gol1sa8odikgc8v12vqpoe53mndro646.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5yG_YpnrKXl3pWihjOjCA6kj9XqkPYHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783365051978-gol1sa8odikgc8v12vqpoe53mndro646.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
